@@ -9,8 +9,10 @@
 title: The Dalton Lab
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Dalton Lab.
-baseurl: ""
-url: ""
+domain: hansmdalton.github.io
+url: https://hansmdalton.github.io
+baseurl: /thedaltonlab
+
 
 include:
   - .htaccess
