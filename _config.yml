@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Website of the Dalton Lab.
 domain: hansmdalton.github.io
 url: https://hansmdalton.github.io
-baseurl: /thedaltonlab
+baseurl: ""
 
 
 include:
